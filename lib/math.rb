@@ -7,7 +7,6 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  number = num1.to
   num1 / num2
 end
 
